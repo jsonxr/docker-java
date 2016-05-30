@@ -1,4 +1,4 @@
 #!/bin/sh -e
 
-docker build --tag=jsonxr/java .
-docker push jsonxr/java
+docker build --tag=jsonxr/java:alpine .
+docker push jsonxr/java:alpine
