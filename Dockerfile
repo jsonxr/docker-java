@@ -1,4 +1,4 @@
-FROM nimmis/ubuntu:14.04
+FROM ubuntu
 
 MAINTAINER jsonxr <jsonxr@gmail.com>
 
